@@ -29,6 +29,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Part 2: Creative Task. I already used the new input system when going through the videos the first time.s
+
         //using new input system
 
         /*
