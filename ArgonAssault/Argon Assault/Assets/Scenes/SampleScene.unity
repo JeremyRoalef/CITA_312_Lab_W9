@@ -227,7 +227,7 @@ Terrain:
   m_TerrainData: {fileID: 15600000, guid: b0b2b4587cf928341a31f89344a89372, type: 2}
   m_TreeDistance: 5000
   m_TreeBillboardDistance: 50
-  m_TreeCrossFadeLength: 5
+  m_TreeCrossFadeLength: 200
   m_TreeMaximumFullLODCount: 50
   m_DetailObjectDistance: 80
   m_DetailObjectDensity: 1
@@ -622,7 +622,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5216096998448369266, guid: 70bc6b6358059e04bbf40b0ecb70b375, type: 3}
       propertyPath: fltMoveSpeed
-      value: 0.2
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5216096998448369266, guid: 70bc6b6358059e04bbf40b0ecb70b375, type: 3}
       propertyPath: movement.m_Id
